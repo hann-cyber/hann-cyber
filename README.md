@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1>Hi, Welcome to Hann's Portfolio<br/></h1>
 
-<!--
-**hann-cyber/hann-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Python Automation Project</b>
+  - [Automating IP Management through Python](https://)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Popular YouTube Videos</h2>
+
+- [TryHackMe Traverse Walkthrough](https://www.youtube.com/watch?v=12HPC8Lg6tg)
+- [Wireless Security Project](https://www.youtube.com/watch?v=AcIrLgN-ryc)
+- [Wardriving Tutorial](https://www.youtube.com/watch?v=IC1dURL6di0)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<h2>  My Certifications:</h2>
+
+- AWS Fundamentals (In progress)
+- [CompTia Security+](https://www.credly.com/badges/6d804478-c39b-46b6-a200-a3cf62121bbe/linked_in_profile)
+- Offensive Security Wireless Professional
+
+<h2> Relevant Courses:</h2>
+
+- TryHackMe Security Engineer
+- EC-Council Web Application Hacking & Security Online Labs
+- EC-Council Certified Ethical Hacker Online Labs
+- Offensive Security Certified Professional
+- Offensive Security Wireless Professional
+
+[youtube]: https://www.youtube.com/channel/UCv3DBlofOyvQZY-qHwR22Nw
+[linkedin]: https://linkedin.com/in/hann-cyber
