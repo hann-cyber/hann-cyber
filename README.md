@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python Automation Project</b>
-  - [Automating IP Management through Python](https://)
+  - [Automating IP Management through Python](https://github.com/hann-cyber/Pyhton-IP-Management)
 
 <h2>📺 Popular YouTube Videos</h2>
 
