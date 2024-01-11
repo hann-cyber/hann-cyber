@@ -4,7 +4,7 @@
 
 - <b>Python Automation:</b>
   - [Automating IP Management with Python](https://github.com/hann-cyber/Pyhton-IP-Management)
-- <b>AWS</b> [Guides](https://) 
+- <b>AWS</b> [Guides](https://github.com/hann-cyber/AWS) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
