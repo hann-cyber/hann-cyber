@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Python Automation Project</b>
-  - [Automating IP Management through Python](https://github.com/hann-cyber/Pyhton-IP-Management)
+- <b>Python Automation:</b>
+  - [Automating IP Management with Python](https://github.com/hann-cyber/Pyhton-IP-Management)
+- <b>AWS</b> [Guides](https://) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
